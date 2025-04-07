@@ -13,14 +13,14 @@
   	<!--Full Frame-->
   	<div class="desktop">
         <!--Filters Window-->
-    	<div class="window">
+    	<div id="filters-window" class="window">
             <!--Filters Header-->
-      		<div class="top">
-        		<div class="search-by-name">Filters</div>
+      		<div id="filters-wrapper" class="top">
+        		<div class="texts">Filters</div>
       		</div>
             <!--Search Bar-->
       		<div class="searchbar">
-        		<div class="search-by-name">Search By Name</div>
+        		<input typer="text" placeholder="Search By Name" class="texts" id="search"/>
       		</div>
             <!--Labels-->
       		<div class="select-coaster-quantity">Select  Coaster Quantity</div>
@@ -33,22 +33,21 @@
       		<img class="bar-icon" alt="" src="Bar.svg">	
         </div>
         <!--Park Window-->
-    	<div class="real-park-window">
+    	<div id="real-park-window" class="window">
             <!--Scrollable Container-->
       		<div class="container">
         		<div class="roller-coaster">
-          			<div class="search-by-name">Roller Coaster</div>
+          			<div class="texts">Roller Coaster</div>
         		</div>
       		</div>
             <!--Park Header-->
-      	    <div class="park-wrapper">
-        	    <div class="search-by-name">Park</div>
+      	    <div id="park-wrapper" class="top">
+        	    <div class="texts">Park</div>
       	    </div>
     	</div>
         <!--Pinpoint-->
     	<div class="vector-parent">
       		<img class="vector-icon" alt="" src="Vector.svg">
-      			
       		<div class="instance-child">
       		</div>
       		<div class="div2">10</div>
@@ -64,6 +63,7 @@
 		<div id="map"></div>
   	</div>
     <script src="jquery-3.7.1.min.js"></script>
-	<script>index.js</script>
+	<script src="https://code.jquery.com/ui/1.14.1/jquery-ui.js"></script>
+	<script src="index.js"></script>
 </body>
 </html>

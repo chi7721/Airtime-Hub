@@ -1,21 +1,23 @@
+#filters-wrapper {
+    background-color: #006aff;
+    padding: 3px 10px;
+}
 .top {
     position: absolute;
     top: 0px;
     left: 0px;
     border-radius: 15px 15px 0px 0px;
-    background-color: #006aff;
     width: 195px;
     height: 24px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
-    padding: 3px 10px;
     box-sizing: border-box;
     font-size: 16px;
     color: #fff;
 }
-.search-by-name {
+.texts {
     position: relative;
     font-weight: 300;
 }
@@ -37,6 +39,11 @@
     box-sizing: border-box;
     font-size: 14px;
     color: #b8b6b6;
+}
+#search {
+    background: none;
+    border: none;
+    outline: none;
 }
 .select-coaster-quantity {
     position: absolute;
@@ -82,14 +89,18 @@
     overflow: hidden;
     max-height: 100%;
 }
-.window {
-    position: absolute;
+#filters-window {
     top: 649px;
     left: 200px;
-    border-radius: 15px;
-    background-color: #d9d9d9;
     width: 195px;
     height: 85px;
+}
+.window {
+    position: absolute;
+    border-radius: 15px;
+    background-color: #d9d9d9;
+    box-sizing: border-box;
+    width: 195px;
 }
 .roller-coaster {
     position: absolute;
@@ -117,30 +128,14 @@
     background-color: rgba(255, 255, 255, 0);
     overflow-y: auto;
 }
-.park-wrapper {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    border-radius: 15px 15px 0px 0px;
+#park-wrapper {
     background-color: #9d9c9c;
-    width: 195px;
-    height: 24px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-start;
     padding: 2px 10px;
-    box-sizing: border-box;
-    font-size: 16px;
-    color: #fff;
 }
-.real-park-window {
+#real-park-window {
     position: absolute;
     top: 268px;
     left: 775px;
-    border-radius: 15px;
-    background-color: #d9d9d9;
-    width: 195px;
     height: 223px;
     font-size: 14px;
     color: #898787;
