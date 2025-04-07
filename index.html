@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alumni Sans:wght@900&display=swap" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+	<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+</head>
+<body>
+  	<!--Full Frame-->
+  	<div class="desktop">
+        <!--Filters Window-->
+    	<div class="window">
+            <!--Filters Header-->
+      		<div class="top">
+        		<div class="search-by-name">Filters</div>
+      		</div>
+            <!--Search Bar-->
+      		<div class="searchbar">
+        		<div class="search-by-name">Search By Name</div>
+      		</div>
+            <!--Labels-->
+      		<div class="select-coaster-quantity">Select  Coaster Quantity</div>
+      		<div class="div">
+        		<p class="p">1</p>
+      		</div>
+      		<div class="div1">
+        		<p class="p">20</p>
+      		</div>
+      		<img class="bar-icon" alt="" src="Bar.svg">	
+        </div>
+        <!--Park Window-->
+    	<div class="real-park-window">
+            <!--Scrollable Container-->
+      		<div class="container">
+        		<div class="roller-coaster">
+          			<div class="search-by-name">Roller Coaster</div>
+        		</div>
+      		</div>
+            <!--Park Header-->
+      	    <div class="park-wrapper">
+        	    <div class="search-by-name">Park</div>
+      	    </div>
+    	</div>
+        <!--Pinpoint-->
+    	<div class="vector-parent">
+      		<img class="vector-icon" alt="" src="Vector.svg">
+      			
+      		<div class="instance-child">
+      		</div>
+      		<div class="div2">10</div>
+    	</div>
+        <!--Logo-->
+    	<div class="logogroup">
+      		<div class="airtimehub">AirtimeHub</div>
+            <svg xmlns="http://www.w3.org/2000/svg" width="74" height="52" viewBox="0 0 74 52" fill="none" id="coastersvg" class="vector-icon1" alt="">
+                <path d="M15.2857 51V1M15.2857 1C11.4969 1 7.86328 2.5051 5.18419 5.18419C2.5051 7.86328 1 11.4969 1 15.2857V51M15.2857 1C22.4286 1 29.5714 5.75 36.7143 15.2857C43.8571 24.8214 51 29.5714 58.1429 29.5714M29.5714 51V7.42857M43.8571 51V23.1429M58.1429 1V15.2857M58.1429 51V29.5714M58.1429 29.5714C60.5286 29.5692 62.8758 28.9695 64.9702 27.8271C67.0647 26.6846 68.8397 25.0358 70.1332 23.0312C71.4267 21.0265 72.1975 18.7299 72.3754 16.3507C72.5533 13.9716 72.1325 11.5859 71.1514 9.41116C70.1703 7.23646 68.6602 5.34209 66.759 3.90094C64.8577 2.45979 62.6257 1.51775 60.2668 1.1608C57.9079 0.803857 55.4972 1.04337 53.2546 1.85747C51.0121 2.67158 49.0091 4.03435 47.4286 5.82143M72.4286 51V15.2857" stroke="#006AFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+    	</div>
+		<!--Map-->
+		<div id="map"></div>
+  	</div>
+    <script src="jquery-3.7.1.min.js"></script>
+	<script>index.js</script>
+</body>
+</html>

@@ -1,0 +1,235 @@
+.top {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 15px 15px 0px 0px;
+    background-color: #006aff;
+    width: 195px;
+    height: 24px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 3px 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: #fff;
+}
+.search-by-name {
+    position: relative;
+    font-weight: 300;
+}
+.searchbar {
+    position: absolute;
+    height: 23.53%;
+    width: 73.33%;
+    top: 36.47%;
+    right: 13.33%;
+    bottom: 40%;
+    left: 13.33%;
+    border-radius: 5px;
+    background-color: #9d9c9c;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 2px;
+    box-sizing: border-box;
+    font-size: 14px;
+    color: #b8b6b6;
+}
+.select-coaster-quantity {
+    position: absolute;
+    height: 10.59%;
+    width: 59.49%;
+    top: 81.18%;
+    left: 20%;
+    font-weight: 300;
+    color: #262626;
+    white-space: pre-wrap;
+    display: inline-block;
+}
+.p {
+    margin: 0;
+}
+.div {
+    position: absolute;
+    height: 12.94%;
+    width: 2.56%;
+    top: 80%;
+    left: 9.74%;
+    font-weight: 300;
+    display: inline-block;
+}
+.div1 {
+    position: absolute;
+    height: 12.94%;
+    width: 7.18%;
+    top: 80%;
+    left: 87.18%;
+    font-weight: 300;
+    display: inline-block;
+}
+.bar-icon {
+    position: absolute;
+    height: 10.59%;
+    width: 82.05%;
+    top: 70.59%;
+    right: 9.23%;
+    bottom: 18.82%;
+    left: 8.72%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.window {
+    position: absolute;
+    top: 649px;
+    left: 200px;
+    border-radius: 15px;
+    background-color: #d9d9d9;
+    width: 195px;
+    height: 85px;
+}
+.roller-coaster {
+    position: absolute;
+    top: 5.2px;
+    left: 1px;
+    border-radius: 5px;
+    background-color: #cdcdcd;
+    width: 174px;
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 2px;
+    box-sizing: border-box;
+}
+.container {
+    position: absolute;
+    height: 87.89%;
+    width: 90.77%;
+    top: 11.21%;
+    right: 4.1%;
+    bottom: 0.9%;
+    left: 5.13%;
+    background-color: rgba(255, 255, 255, 0);
+    overflow-y: auto;
+}
+.park-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 15px 15px 0px 0px;
+    background-color: #9d9c9c;
+    width: 195px;
+    height: 24px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 2px 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: #fff;
+}
+.real-park-window {
+    position: absolute;
+    top: 268px;
+    left: 775px;
+    border-radius: 15px;
+    background-color: #d9d9d9;
+    width: 195px;
+    height: 223px;
+    font-size: 14px;
+    color: #898787;
+}
+.vector-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.instance-child {
+    position: absolute;
+    height: 48.15%;
+    width: 59.15%;
+    top: 12.96%;
+    right: 20.38%;
+    bottom: 38.89%;
+    left: 20.47%;
+    border-radius: 50%;
+    background-color: #fff;
+}
+.div2 {
+    position: absolute;
+    height: 37.04%;
+    width: 45.54%;
+    top: 20.37%;
+    left: 25.02%;
+    font-weight: 300;
+    display: inline-block;
+}
+.vector-parent {
+    position: absolute;
+    top: 598px;
+    left: 759px;
+    width: 21.3px;
+    height: 27px;
+    text-align: center;
+    font-size: 8px;
+    color: #000;
+}
+.airtimehub {
+    position: absolute;
+    height: 85.8%;
+    width: 64.24%;
+    top: 6.86%;
+    left: 35.76%;
+    font-weight: 900;
+    display: inline-block;
+}
+.vector-icon1 {
+    position: absolute;
+    height: 100%;
+    width: 30.4%;
+    top: 0%;
+    right: 69.6%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.logogroup {
+    position: absolute;
+    top: 14px;
+    left: 17px;
+    width: 234.9px;
+    height: 50px;
+    font-size: 40px;
+    color: #006aff;
+    font-family: 'Alumni Sans';
+}
+.desktop {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1080px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 10px;
+    color: #1e1e1e;
+    font-family: Inter;
+}
+#map {
+    width: 100%;
+    height: 500px;
+}
