@@ -1,0 +1,158 @@
+{
+    "themepark_1": {
+        "name": "Cedar Point",
+        "location": "Sandusky, Ohio",
+        "coasters": [
+            {
+                "name": "Blue Streak"
+            },
+            {
+                "name": "Cedar Creek Mine Ride"
+            },
+            {
+                "name": "Corkscrew"
+            },
+            {
+                "name": "Gatekeeper"
+            },
+            {
+                "name": "Gemini"
+            },
+            {
+                "name": "Iron Dragon"
+            },
+            {
+                "name": "Magnum XL-200"
+            },
+            {
+                "name": "Maverick"
+            },
+            {
+                "name": "Millennium Force"
+            },
+            {
+                "name": "Raptor"
+            },
+            {
+                "name": "Rougarou"
+            },
+            {
+                "name": "Steel Vengeance"
+            },
+            {
+                "name": "Valravn"
+            },
+            {
+                "name": "Wild Mouse"
+            },
+            {
+                "name": "Woodstock Express"
+            },
+            {
+                "name": "Wilderness Run"
+            }
+        ]
+    },
+    "themepark_2": {
+        "name": "Six Flags Great Adventure",
+        "location": "Jackson, New Jersey",
+        "coasters": [
+            {
+                "name": "Batman: The Ride"
+            },
+            {
+                "name": "Dark Knight"
+            },
+            {
+                "name": "El Toro"
+            },
+            {
+                "name": "Flash: Vertical Velocity"
+            },
+            {
+                "name": "Harley Quinn Crazy Train"
+            },
+            {
+                "name": "Jersey Devil Coaster"
+            },
+            {
+                "name": "Medusa"
+            },
+            {
+                "name": "Nitro"
+            },
+            {
+                "name": "Runaway Mine Train"
+            },
+            {
+                "name": "Skull Mountain"
+            },
+            {
+                "name": "Superman: Ultimate Flight"
+            }
+        ]
+    },
+    "themepark_3": {
+        "name": "Islands of Adventure",
+        "location": "Orlando, Florida",
+        "coasters": [
+            {
+                "name": "Flight of the Hippogriff"
+            },
+            {
+                "name": "Hagrid's Magical Creatures Motorbike Adventure"
+            },
+            {
+                "name": "Increadible Hulk Coaster"
+            },
+            {
+                "name": "Pteranodon Flyers"
+            }
+        ]
+    },
+    "themepark_4": {
+        "name": "Walibi Holland",
+        "location": "Biddinghuizen, Netherlands",
+        "coasters": [
+            {
+                "name": "Condor"
+            },
+            {
+                "name": "Drako"
+            },
+            {
+                "name": "Eat My Dust"
+            },
+            {
+                "name": "Goliath"
+            },
+            {
+                "name": "Lost Gravity"
+            },
+            {
+                "name": "Speed of Sound"
+            },
+            {
+                "name": "Untamed"
+            },
+            {
+                "name": "Xpress: Platform 13"
+            },
+            {
+                "name": "YoY"
+            }
+        ]
+    },
+    "themepark_5": {
+        "name": "Tokyo Disneyland",
+        "location": "Urayasu, Chiba, Japan",
+        "coasters": [
+            {
+                "name": "Big Thunder Mountain"
+            },
+            {
+                "name": "Gadget's Go Coaster"
+            }
+        ]
+    }
+}
