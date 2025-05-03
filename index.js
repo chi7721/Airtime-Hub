@@ -179,13 +179,18 @@ var customIcon = L.divIcon({
     iconSize: [21.3, 27],
     iconAnchor: [10.65, 27]
 });
-L.marker([54, 0], {
-    icon: customIcon
-}).addTo(map);
-for (var i = 0; i < Object.keys(jsonCoasters).length; i++) {
-    var themepark = jsonCoasters["themepark_" + (i + 1)];
-    var coordinates = themepark.coordinates;
-    L.marker([coordinates[0], coordinates[1]], {
+var placeMarker = function(lat, lng) {
+    var marker = L.marker([lat, lng], {
         icon: customIcon
     }).addTo(map);
+    console.log($(markerTemplate).prop('outerHTML'));
+};
+for (var i = 0; i < Object.keys(jsonCoasters).length; i++) {
+    var themepark = jsonCoasters["themepark_" + (i + 1)];
+    var parkName = themepark.name;
+    var coordinates = themepark.coordinates;
+    placeMarker(coordinates[0], coordinates[1]);
 }
+$(".vector-parent").on('click', function() {
+    console.log('Marker clicked');
+});
