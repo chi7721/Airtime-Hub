@@ -165,7 +165,7 @@ var json =  {
 var jsonString = JSON.stringify(json);
 var jsonCoasters = JSON.parse(jsonString);
 console.log(jsonCoasters.themepark_1.name);
-var map = L.map('map').setView([51.505, -0.09], 13);
+var map = L.map('map').setView([0, 0], 3);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
