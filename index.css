@@ -276,3 +276,10 @@ html, body {
 .desktop, #filters-window, #real-park-window, .logogroup, .vector-parent {
     z-index: 1; /* Bring them in front of the map */
 }
+.custom-marker {
+    cursor: pointer;
+}
+.custom-marker:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s;
+}

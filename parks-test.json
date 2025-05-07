@@ -1,0 +1,322 @@
+[
+    {
+        "id": 4529,
+        "name": "Cedar Point",
+        "city": "Sandusky",
+        "state": "Ohi var parkName = themepark.name;o",
+        "country": "United States",
+        "status": {
+          "state": "Operating",
+          "from": "1870",
+          "to": ""
+        },
+        "mainPicture": {
+          "id": 33555,
+          "name": "Cedar Point",
+          "url": "/aabxqpa",
+          "copyName": "Kim Van Briel",
+          "copyDate": "2009-06-13"
+        },
+        "pictures": [
+          {
+            "id": 33555,
+            "name": "Cedar Point",
+            "url": "/aabxqpa",
+            "copyName": "Kim Van Briel",
+            "copyDate": "2009-06-13"
+          },
+          {
+            "id": 33556,
+            "name": "Cedar Point",
+            "url": "/aabxqqa",
+            "copyName": "Kim Van Briel",
+            "copyDate": "2009-06-13"
+          },
+          {
+            "id": 33557,
+            "name": "Cedar Point",
+            "url": "/aabxqra",
+            "copyName": "Kim Van Briel",
+            "copyDate": "2009-06-13"
+          },
+          {
+            "id": 33558,
+            "name": "Cedar Point",
+            "url": "/aabxqsa",
+            "copyName": "Kim Van Briel",
+            "copyDate": "2009-06-13"
+          },
+          {
+            "id": 33559,
+            "name": "Cedar Point",
+            "url": "/aabxqta",
+            "copyName": "Kim Van Briel",
+            "copyDate": "2009-06-13"
+          },
+          {
+            "id": 33560,
+            "name": "Cedar Point",
+            "url": "/aabxqua",
+            "copyName": "Kim Van Briel",
+            "copyDate": "2009-06-13"
+          },
+          {
+            "id": 55454,
+            "name": "Cedar Point",
+            "url": "/aadeawa",
+            "copyName": "Rik Engelen",
+            "copyDate": "2014-06-09"
+          },
+          {
+            "id": 55455,
+            "name": "Cedar Point",
+            "url": "/aadeaxa",
+            "copyName": "Rik Engelen",
+            "copyDate": "2014-06-10"
+          },
+          {
+            "id": 55456,
+            "name": "Cedar Point",
+            "url": "/aadeaya",
+            "copyName": "Rik Engelen",
+            "copyDate": "2014-06-09"
+          },
+          {
+            "id": 55457,
+            "name": "Cedar Point",
+            "url": "/aadeaza",
+            "copyName": "Rik Engelen",
+            "copyDate": "2014-06-09"
+          },
+          {
+            "id": 63964,
+            "name": "Cedar Point",
+            "url": "/aadqqea",
+            "copyName": "Martin Valt",
+            "copyDate": "2015-08-14"
+          },
+          {
+            "id": 63966,
+            "name": "Cedar Point",
+            "url": "/aadqqga",
+            "copyName": "Martin Valt",
+            "copyDate": "2015-08-14"
+          },
+          {
+            "id": 63968,
+            "name": "Cedar Point",
+            "url": "/aadqqia",
+            "copyName": "Martin Valt",
+            "copyDate": "2015-08-14"
+          },
+          {
+            "id": 63969,
+            "name": "Cedar Point",
+            "url": "/aadqqja",
+            "copyName": "Martin Valt",
+            "copyDate": "2015-08-14"
+          },
+          {
+            "id": 91337,
+            "name": "Cedar Point",
+            "url": "/aaffcza",
+            "copyName": "Charles Wagor III",
+            "copyDate": "2018-06-01"
+          },
+          {
+            "id": 108150,
+            "name": "Cedar Point",
+            "url": "/aagdzqa",
+            "copyName": "Martin Valt",
+            "copyDate": "2012-10-08"
+          },
+          {
+            "id": 108152,
+            "name": "Cedar Point",
+            "url": "/aagdzsa",
+            "copyName": "Martin Valt",
+            "copyDate": "2012-10-07"
+          }
+        ],
+        "socialMedia": {
+          "twitter": "https://twitter.com/cedarpoint",
+          "facebook": "https://www.facebook.com/cedarpoint/",
+          "website": "http://www.cedarpoint.com/",
+          "youtube": "https://www.youtube.com/user/CedarPointVideos",
+          "instagram": "https://instagram.com/cedarpoint/",
+          "pinterest": ""
+        },
+        "coords": {
+          "lat": "41.481972",
+          "lng": "-82.684563"
+        },
+        "coasters": [
+          {
+            "id": 20342,
+            "name": "Wild Mouse",
+            "type": "Steel",
+            "design": "Sit Down",
+            "scale": "Thrill",
+            "date": "2023-05-06",
+            "status": "opening"
+          },
+          {
+            "id": 17,
+            "name": "Iron Dragon",
+            "type": "Steel",
+            "design": "Suspended",
+            "scale": "Thrill",
+            "date": "1987-06-11",
+            "status": "opened"
+          },
+          {
+            "id": 1896,
+            "name": "Top Thrill Dragster",
+            "type": "Steel",
+            "design": "Sit Down",
+            "scale": "Extreme",
+            "date": "2003-05-04",
+            "status": "since"
+          },
+          {
+            "id": 2362,
+            "name": "Broadway Trip",
+            "type": "Steel",
+            "design": "Sit Down",
+            "scale": "Family",
+            "date": "1964",
+            "status": "closed"
+          }
+        ]
+      },
+      {
+        "id": 4534,
+        "name": "Six Flags Great Adventure",
+        "city": "Jackson",
+        "state": "New Jersey",
+        "country": "United States",
+        "status": {
+          "state": "Operating",
+          "from": "1974-07-01",
+          "to": ""
+        },
+        "mainPicture": {
+          "id": 25542,
+          "name": "Six Flags Great Adventure",
+          "url": "/aabluka",
+          "copyName": "Tommy Faircloth",
+          "copyDate": "2009-05-28"
+        },
+        "pictures": [
+          {
+            "id": 25542,
+            "name": "Six Flags Great Adventure",
+            "url": "/aabluka",
+            "copyName": "Tommy Faircloth",
+            "copyDate": "2009-05-28"
+          },
+          {
+            "id": 37036,
+            "name": "Six Flags Great Adventure",
+            "url": "/aaccuma",
+            "copyName": "Carl Emerson Jr.",
+            "copyDate": "2010-08-29"
+          },
+          {
+            "id": 119123,
+            "name": "Six Flags Great Adventure",
+            "url": "/aagufra",
+            "copyName": "Malcolm Marr",
+            "copyDate": "2006-05-30"
+          },
+          {
+            "id": 125554,
+            "name": "Six Flags Great Adventure",
+            "url": "/aahdtaa",
+            "copyName": "Nick Curcio",
+            "copyDate": "2020"
+          },
+          {
+            "id": 125555,
+            "name": "Six Flags Great Adventure",
+            "url": "/aahdtba",
+            "copyName": "Nick Curcio",
+            "copyDate": "2020"
+          },
+          {
+            "id": 125848,
+            "name": "Six Flags Great Adventure",
+            "url": "/aaheeia",
+            "copyName": "Bruce Alster",
+            "copyDate": "1974-08"
+          },
+          {
+            "id": 125849,
+            "name": "Six Flags Great Adventure",
+            "url": "/aaheeja",
+            "copyName": "Bruce Alster",
+            "copyDate": "1974-08"
+          },
+          {
+            "id": 125850,
+            "name": "Six Flags Great Adventure",
+            "url": "/aaheeka",
+            "copyName": "Bruce Alster",
+            "copyDate": "1974-08"
+          },
+          {
+            "id": 125851,
+            "name": "Six Flags Great Adventure",
+            "url": "/aaheela",
+            "copyName": "Bruce Alster",
+            "copyDate": "1974-08"
+          },
+          {
+            "id": 125852,
+            "name": "Six Flags Great Adventure",
+            "url": "/aaheema",
+            "copyName": "Bruce Alster",
+            "copyDate": "1974-08"
+          },
+          {
+            "id": 125853,
+            "name": "Six Flags Great Adventure",
+            "url": "/aaheena",
+            "copyName": "Bruce Alster",
+            "copyDate": "1974-08"
+          }
+        ],
+        "socialMedia": {
+          "twitter": "https://twitter.com/sfgradventure",
+          "facebook": "https://www.facebook.com/sixflagsgreatadventure/",
+          "website": "https://www.sixflags.com/greatadventure",
+          "youtube": "https://www.youtube.com/channel/UCgH34oEWKs6MRi0N5HV559w",
+          "instagram": "",
+          "pinterest": ""
+        },
+        "coords": {
+          "lat": "40.137005",
+          "lng": "-74.440957"
+        },
+        "coasters": [
+          {
+            "id": 32,
+            "name": "Batman The Ride",
+            "type": "Steel",
+            "design": "Inverted",
+            "scale": "Extreme",
+            "date": "1993-05-01",
+            "status": "opened"
+          },
+          {
+            "id": 2899,
+            "name": "Big Fury",
+            "type": "Steel",
+            "design": "Sit Down",
+            "scale": "",
+            "date": "1974",
+            "status": "closed"
+          }
+        ]
+      }
+]

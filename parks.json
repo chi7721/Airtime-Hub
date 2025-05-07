@@ -1,7 +1,8 @@
- {
+{
     "themepark_1": {
         "name": "Cedar Point",
         "location": "Sandusky, Ohio",
+        "coordinates": [41.4813, -82.6695],
         "coasters": [
             {
                 "name": "Blue Streak"
@@ -56,6 +57,7 @@
     "themepark_2": {
         "name": "Six Flags Great Adventure",
         "location": "Jackson, New Jersey",
+        "coordinates": [40.1354, -74.4262],
         "coasters": [
             {
                 "name": "Batman: The Ride"
@@ -95,6 +97,7 @@
     "themepark_3": {
         "name": "Islands of Adventure",
         "location": "Orlando, Florida",
+        "coordinates": [28.4747, -81.4675],
         "coasters": [
             {
                 "name": "Flight of the Hippogriff"
@@ -113,6 +116,7 @@
     "themepark_4": {
         "name": "Walibi Holland",
         "location": "Biddinghuizen, Netherlands",
+        "coordinates": [52.4275, 5.4722],
         "coasters": [
             {
                 "name": "Condor"
@@ -146,6 +150,7 @@
     "themepark_5": {
         "name": "Tokyo Disneyland",
         "location": "Urayasu, Chiba, Japan",
+        "coordinates": [35.6329, 139.8804],
         "coasters": [
             {
                 "name": "Big Thunder Mountain"
